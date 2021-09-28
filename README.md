@@ -61,3 +61,7 @@ const character = {
 Напишите функцию с аргументом-деструктором, которая извлекает массив с нужными полями (`id`, `name`, `description`, `icon`) из объекта, а если значения для поля `description` нет - устанавливает default'ное значение в 'Описание недоступно'. Функция должна возвращать извлечённый массив из объектов с четыремя полями.
 
 Не забудьте написать unit-тесты, которые обеспечивают 100% покрытие функции, которую вы тестируете.
+
+---
+### AJS-6.2
+[![Build status](https://ci.appveyor.com/api/projects/status/xi8xpkonplpnmm9x/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-6-2-rlvke/branch/main)
